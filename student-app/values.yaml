@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: ghcr.io/atuan0354/student-management
-  tag: "manual-test"
+  tag: "4"
   pullPolicy: Always
 
 imagePullSecrets:
