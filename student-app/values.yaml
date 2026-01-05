@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: ghcr.io/atuan0354/student-management
-  tag: "4"
+  tag: "7"
   pullPolicy: Always
 
 imagePullSecrets:
